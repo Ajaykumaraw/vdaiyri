@@ -1,0 +1,17 @@
+.vd__video-section{
+    width: 80%;
+    height: 85%;
+    margin: .5rem auto;
+    border-radius: 10px;
+    background: rgb(240, 88, 88);  
+}
+.vd__thumbnail{
+    object-fit: cover;
+}
+
+
+@media screen and (max-width:550px){
+    .vd__video-section{
+        width: 100%;
+    }
+}

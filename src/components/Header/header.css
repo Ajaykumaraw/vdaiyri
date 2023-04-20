@@ -1,0 +1,10 @@
+.vd__logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.vd__logo img{
+    width: 15rem;
+    object-fit: contain;
+}
