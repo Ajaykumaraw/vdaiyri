@@ -8,7 +8,11 @@
 .vd__thumbnail{
     object-fit: cover;
 }
-
+.vd__video{
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+}
 
 @media screen and (max-width:550px){
     .vd__video-section{
